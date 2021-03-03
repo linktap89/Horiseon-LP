@@ -47,17 +47,17 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* Image float */
+/* Image float left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-/* Image float */
+/* image float right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* content class */
 .content {
     width: 75%;
     display: inline-block;
@@ -75,36 +75,16 @@ p {
     background-color: #2589bd;
 }
 /* benefit lead copy */
-.benefit-lead {
+.benefits-title {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* benefit brand copy */
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-/*benefit cost copy */
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-/* benefit lead title */
-.benefit-lead h3 {
+
+.benefit-div h3 {
     margin-bottom: 10px;
     text-align: center;
+    
 }
-/* benefit brand title */
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-/* benefit cost title */
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-/* benefit lead image */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
