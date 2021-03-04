@@ -14,9 +14,9 @@ Horiseon_Agency_LP % cd Vol2 Horiseon-LP
 The website can be found at the following github profile and pages.
 ```bash
 
-Git Profile: https://github.com/linktap89
+<a href="https://github.com/linktap89">Git Profile </a>
 
-Git Pages: https://linktap89.github.io/Horiseon-LP/
+<a href="https://linktap89.github.io/Horiseon-LP/">Git Pages </a>
 ```
 
 ## Contributing
